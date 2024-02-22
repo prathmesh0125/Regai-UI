@@ -1,0 +1,16 @@
+.recommendation-container{
+  height: 630px;
+  width: 100%;
+  display: flex;
+  gap: 1.7rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.recommendation-list{
+  height: 1000px;
+  width: 100%;
+  overflow: auto;
+
+}
